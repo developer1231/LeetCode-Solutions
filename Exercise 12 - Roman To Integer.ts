@@ -1,4 +1,4 @@
-```ts
+
 function romanToInt(s: string): number {
     return recursiveSolver(s, 0);
 };
@@ -72,5 +72,3 @@ function calculateValue(s: string):number{
     }
     return value;
 }
-```
-
